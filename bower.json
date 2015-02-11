@@ -3,7 +3,7 @@
   "version": "4.4.2",
   "dependencies": {
     "jquery": "*",
-    "bootstrap": "*",
+    "bootstrap-sass-official": "*",
     "modernizr": "*",
     "jquery-bridget": "*"
   },
